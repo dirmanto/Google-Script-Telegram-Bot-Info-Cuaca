@@ -1,6 +1,6 @@
 # Google-Script-Telegram-Bot-Info-Cuaca
-var seuneu => isi dengan api yang didapat pada situs openweathermap
-var alamat => lengkapi dengan api yang sama
-var chatid => isi dengan chat id grup telegram anda
+var seuneu => isi dengan api yang didapat pada situs openweathermap <br>
+var alamat => lengkapi dengan api yang sama <br>
+var chatid => isi dengan chat id grup telegram anda <br>
 
-Cara Penggunaan Lengkap : https://jz12jxd.web.id/bot-telegram-penyampai-informasi-cuaca/
+<strong>Cara Penggunaan Lengkap</strong> : https://jz12jxd.web.id/bot-telegram-penyampai-informasi-cuaca/
